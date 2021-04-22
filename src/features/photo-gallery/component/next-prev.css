@@ -1,0 +1,10 @@
+.arrow{
+  cursor: pointer;
+}
+.arrow-disable{
+  cursor: not-allowed;
+}
+.sub-image{
+  height: 300px;
+  width: 250px;
+}
